@@ -39,7 +39,7 @@
 <h2 align="left"> Languages & Frameworks</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=flask,django,react,git" />
+    <img src="https://skillicons.dev/icons?i=flask,django,fastapi,react,git" />
     <img src="https://skillicons.dev/icons?i=python,r,javascript,php,java" />
         <img src="https://skillicons.dev/icons?i=mongodb,mysql,SQL" /><br>
 </div>
